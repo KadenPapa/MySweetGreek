@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "npx ng build",
+    "build": "ng build --configuration production",
     "watch": "ng build --watch --configuration development",
     "serve:ssr:MySweetGreek": "node dist/MySweetGreek/server/server.mjs"
   },
@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "@angular/build": "^20.3.6",
-    "@angular/cli": "^20.3.6",
+    "@angular/cli": "^20.3.13",
     "@angular/compiler-cli": "^20.3.0",
     "@types/express": "^5.0.1",
     "@types/node": "^20.17.19",
