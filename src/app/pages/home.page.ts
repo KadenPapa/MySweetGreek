@@ -5,11 +5,11 @@ import { Component } from '@angular/core';
   standalone: true,
   template: `
     <section class="home">
-      <img src="assets/Logo-Main.png" alt="MySweetGreek Logo" class="home-logo" />
+      <img src="/assets/Logo-Main.png" alt="MySweetGreek Logo" class="home-logo" />
      </section>
     
     <section class="hero">
-      <img src="assets/Baklava.jpg" alt="Delicious Baklava" class="hero-img" />
+      <img src="/assets/Baklava.jpg" alt="Delicious Baklava" class="hero-img" />
       <div class="hero-text">
         <h1>Fresh, Authentic Greek Baklava</h1>
         <p>Handmade with premium ingredients.</p>
