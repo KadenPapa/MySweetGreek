@@ -4,13 +4,13 @@ import { Component } from '@angular/core';
   standalone: true,
   selector: 'about-page',
   template: `
-    <h1>Ready to enjoy some delicious Baklava</h1>
+    <h1>Ready to enjoy some delicious Baklava?</h1>
     <p>
 
     </p>
         <div class="cta-section">
-      <h2>Reserve your order this holiday season</h2>
-      <p>Once you place your reservation you will receive a confirmation on your order within 48 hours of placement. Any orders for an event less than 48 hours away will be rejected.</p>
+      <h2>Reserve your order for your next get together</h2>
+      <p>Once you place your reservation you will receive a confirmation on your order within 48 hours of placement. Any orders for an event less than 48 hours away may be rejected.</p>
 
       <a
         href="https://docs.google.com/forms/d/YOUR_GOOGLE_FORM_LINK_HERE/viewform"

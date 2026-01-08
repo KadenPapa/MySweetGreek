@@ -5,8 +5,8 @@ import { Component } from '@angular/core';
   selector: 'contact-page',
   template: `
     <h1>Contact Us</h1>
-    <p>Email: support@mysweetgreek.com</p>
-    <p>Phone: (555) 123-4567</p>
+    <p>Email: sweetgreekbaklava@gmail.com</p>
+    <p>Phone: (513) 371-9022</p>
   `,
   styles: [``]
 })
