@@ -8,7 +8,7 @@ import { RouterOutlet, RouterLink } from '@angular/router';
   template: `
     <nav class="nav">
       <div class="nav-left">
-      <img src="assets/SG-Corner.png" class="logo" />
+      <img src="/assets/SG-Corner.png" class="logo" />
     </div>
     <div class="nav-center">
       <a routerLink="">Home</a>
