@@ -13,7 +13,7 @@ import { Component } from '@angular/core';
       <p>Once you place your reservation you will receive a confirmation on your order within 48 hours of placement. Any orders for an event less than 48 hours away may be rejected.</p>
 
       <a
-        href="https://docs.google.com/forms/d/YOUR_GOOGLE_FORM_LINK_HERE/viewform"
+        href="https://forms.gle/ANzPWLD7vv8QVAeM9"
         target="_blank"
         rel="noopener"
         class="form-button"
